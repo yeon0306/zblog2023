@@ -11,7 +11,7 @@
          <label for="pwd">Password:</label> <input type="password"
             class="form-control" id="password" placeholder="Enter password" name="password">
       </div>
-      <button id="btn-login" class="btn btn-primary">로그인</button>
+      <button id="btn-login" class="btn btn-primary">로구인</button>
    </form>
 </div>
 <script src="/js/login.js"></script>
