@@ -18,7 +18,7 @@ import jakarta.servlet.http.HttpSession;
 @Controller
 public class LoginController {
 
-   // 로그인화면으로 이동
+   // 로그인화면으로 이동, 깃허브저장을 위해 수정
    @GetMapping("/auth/login")
    public String bloglogin() {
       return "system/login";

@@ -1,3 +1,5 @@
+
+//깃허브 저장을 위해 수정
 let loginObject = {
 	init: function() {
 		let _this = this;

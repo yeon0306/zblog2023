@@ -36,6 +36,7 @@ memberjoin();*/
 /**
  /sbootblog/src/main/resources/static/js/user.js
  */
+ //수정
 
  let userObject = {
     init: function(){
