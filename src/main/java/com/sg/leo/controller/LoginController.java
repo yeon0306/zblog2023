@@ -24,6 +24,12 @@ public class LoginController {
       return "system/login";
    }
    
+   @GetMapping("/auth/logout")
+   public String logout(HttpSession session) {
+      session.invalidate();
+      return "redirect:/";
+   } 
+   
 	@Autowired
 	private UserService userService;
 	
