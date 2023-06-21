@@ -2,7 +2,7 @@
 
 # 회원기반 게시판 관리 웹
 
-회원 가입을 통해 계정을 생성하고, 로그인하여 게시글을 작성할 수 있다.  또한 게시물의 내용도 볼 수 있는 웹페이지를 만들었다. 
+회원 가입을 하고 로그인하여 게시물 작성과 등록이 가능. 또한 작성한 게시물의 내용을 볼 수 있는 블로그 웹 페이지
 
 
 ### 개발도구
@@ -12,10 +12,9 @@
 
 
 #### BackEnd
-<img src="https://img.shields.io/badge/Java 17-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Tomcat 9.0-F8DC75?style=flat&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/SpringToolSuite 4-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot 3.0.-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/H2 database 2.1.214-orange?style=flat&logo=H2&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Java 17-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Tomcat 9.0-F8DC75?style=flat&logo=apachetomcat&logoColor=black"> <img src="https://img.shields.io/badge/SpringToolSuite 4-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot 3.0.-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/H2 database-orange?style=flat&logo=H2&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
-<!--<img src="https://img.shields.io/badge/BackEnd-000000?style=flat&logo=backendless&logoColor=white">--> 
-   
+  
 ### reference  
 - 채규태, 채쌤의 스프링부트프로젝트, 쌤즈 2022  
 - 성낙현, JSP 자바 웹 프로그래밍, 골든래빗 2021  
